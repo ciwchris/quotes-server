@@ -1,0 +1,17 @@
+{
+  "name": "rss-reader-feed-scan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "web-push": "^3.2.1",
+    "azure-storage": "^2.1.0"
+  }
+}
